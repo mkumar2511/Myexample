@@ -1,1 +1,19 @@
-my  test file from git command line
+	
+
+
+
+
+
+
+
+	my  test file from git command line
+
+	this is adding one mor line.
+	it multil line test example.
+
+
+--INSERT--
+:wq'
+:wq
+:wq"
+
